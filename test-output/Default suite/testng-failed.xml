@@ -7,6 +7,7 @@
         <methods>
           <include name="loginFunction"/>
           <include name="SetUp"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- TC.TC_02_LoginFunction -->
     </classes>
